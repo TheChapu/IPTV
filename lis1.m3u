@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=”ARD.de” tvg-logo=”ard.png”,ARD
+http://cdn-02.seganova.tv/gpl/z030402/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,ZDF
+http://cdn-02.seganova.tv/gpl/z030401/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,RTL
+http://cdn-02.seganova.tv/gpl/z030101/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sat.1
+http://cdn-02.seganova.tv/gpl/z010101/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,ProSieben
+http://cdn-02.seganova.tv/gpl/z010102/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,RTL II
+http://cdn-02.seganova.tv/gpl/z030104/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,kabel eins
+http://cdn-02.seganova.tv/gpl/z010103/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,VOX
+http://cdn-02.seganova.tv/gpl/z050220/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,sixx
+http://cdn-02.seganova.tv/gpl/z010104/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,RTL Nitro
+http://cdn-02.seganova.tv/gpl/z050545/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,SRF 1
+http://cdn-02.seganova.tv/gpl/z050581/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,SRF zwei
+http://cdn-02.seganova.tv/gpl/z050582/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Disney Channel
+http://cdn-02.seganova.tv/gpl/z050592/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,ORF eins
+http://cdn-02.seganova.tv/gpl/z050567/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,ORF 2
+http://cdn-02.seganova.tv/gpl/z050568/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Nickelodeon
+http://cdn-02.seganova.tv/gpl/z050475/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,phoenix
+http://cdn-02.seganova.tv/gpl/z050496/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,tagesschau24
+http://cdn-02.seganova.tv/gpl/z050492/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Eins Plus
+http://cdn-02.seganova.tv/gpl/z050494/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,EinsFestivalHD
+http://cdn-02.seganova.tv/gpl/z050493/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,ARTE
+http://cdn-02.seganova.tv/gpl/z050218/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,N24
+http://cdn-02.seganova.tv/gpl/z050008/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,n-tv
+http://cdn-02.seganova.tv/gpl/z050548/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Super RTL
+http://cdn-02.seganova.tv/gpl/z050546/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,3sat
+http://cdn-02.seganova.tv/gpl/z050497/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,ZDFinfokanal
+http://cdn-02.seganova.tv/gpl/z050499/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,EuroNews
+http://cdn-02.seganova.tv/gpl/z050504/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,KIKA
+http://cdn-02.seganova.tv/gpl/z050498/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:-1 tvg-id=”Sky Cinema.de”tvg-logo=”Sky cinema.png”,Sky Cinema
+http://cdn-02.seganova.tv/gpl/z050393/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sky Action
+http://cdn-02.seganova.tv/gpl/z050280/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sky Cinema Hits
+http://cdn-02.seganova.tv/gpl/z050274/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sky Atlantic HD
+http://cdn-02.seganova.tv/gpl/z050285/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,MGM
+http://cdn-02.seganova.tv/gpl/z050408/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,TNT Film
+http://cdn-02.seganova.tv/gpl/z050566/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,TNT Serie
+http://cdn-02.seganova.tv/gpl/z050407/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Nat Geo Wild
+http://cdn-02.seganova.tv/gpl/z050287/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+
+#EXTINF:0,Nat Geographic HD
+http://cdn-02.seganova.tv/gpl/z050288/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,History HD
+http://cdn-02.seganova.tv/gpl/z050560/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Syfy HD
+http://cdn-02.seganova.tv/gpl/z050563/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,13th Street
+http://cdn-02.seganova.tv/gpl/z050561/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Disney Cinemagic
+http://cdn-02.seganova.tv/gpl/z050562/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,FOX
+http://cdn-02.seganova.tv/gpl/z050579/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:-1 tvg-id=”AXN.de” tvg-logo=”axn.png”,AXN
+http://cdn-02.seganova.tv/gpl/z050580/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sky 3D
+http://cdn-02.seganova.tv/gpl/z050569/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Deluxe Music
+http://cdn-02.seganova.tv/gpl/z050593/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sky Fußball Bundesliga
+http://cdn-02.seganova.tv/gpl/z050333/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sky Sport 1
+http://cdn-02.seganova.tv/gpl/z050358/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sky Sport 2
+http://cdn-02.seganova.tv/gpl/z050286/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,SPORT1
+http://cdn-02.seganova.tv/gpl/z030103/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Sport1+ HD
+http://cdn-02.seganova.tv/gpl/z050578/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
+#EXTINF:0,Eurosport
+http://cdn-02.seganova.tv/gpl/z050503/paulee/971211213bbc994859e30711318f22ad5f6053ed?t=7&d=1&s=2
