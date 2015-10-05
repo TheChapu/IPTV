@@ -1,0 +1,318 @@
+#EXTM3U
+#EXTINF:0,[COLOR blue]List by col_grabador for: forocable exclusively.[/COLOR]
+http://?
+#EXTINF:-1,Do not copy, or share this list.
+http://?
+#EXTINF:-1,Caracol 
+http://iptvlatam.cf/hls/caracol/playlist.m3u8
+#EXTINF:-1,RCN HD
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+
+#EXTINF:-1,Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+#EXTINF:-1,Señal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
+
+#EXTINF:-1,Yes!
+http://iptv.latino-webtv.com/yes.m3u8
+
+#EXTINF:-1,Televentas
+http://iptv.latino-webtv.com/televentas.m3u8
+
+#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal Tr3ce
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+
+#EXTINF:-1,Telecafe
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+
+#EXTINF:-1,Señal Institucional
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8?
+
+#EXTINF:-1,TELEANTIOQUIA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+
+#EXTINF:-1,Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+#EXTINF:-1,CosmoVision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:-1,CANAL CAPITAL
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+
+#EXTINF:-1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
+
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+
+#EXTINF:-1,UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+
+#EXTINF:-1,UNE TV CARIBE
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
+
+#EXTINF:-1,UNE TV ARMENIA
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
+
+#EXTINF:-1,TELE VIDA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+
+#EXTINF:-1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+
+#EXTINF:-1,LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1,Fox
+http://iptv.latino-webtv.com/stalker.php?ch=FOXHDLA&id=3947
+
+#EXTINF:-1,Fox 1
+http://iptv.latino-webtv.com/stalker.php?ch=FOX1LASD&id=433
+
+#EXTINF:-1,Cinecanal
+http://iptv.latino-webtv.com/stalker.php?ch=CineCanalLA&id=2495
+
+#EXTINF:-1,AXN
+http://iptv.latino-webtv.com/stalker.php?ch=AXNLA&id=2493
+
+#EXTINF:-1,Universal Channel
+http://iptv.latino-webtv.com/stalker.php?ch=UniversalLASD&id=387
+
+#EXTINF:-1,HBO
+http://iptv.latino-webtv.com/stalker.php?ch=HBOLASD&id=385
+
+#EXTINF:-1,HBO 2
+http://iptv.latino-webtv.com/stalker.php?ch=HBO2SD&id=365
+
+#EXTINF:-1,HBO Plus
+http://iptv.latino-webtv.com/stalker.php?ch=HBOPlusLASD&id=453
+
+#EXTINF:-1,HBO Plus 2
+http://iptv.latino-webtv.com/stalker.php?ch=HBOPus2LASD&id=369
+
+#EXTINF:-1,HBO Family
+http://iptv.latino-webtv.com/stalker.php?ch=HBOFamilyLASD&id=449
+
+#EXTINF:-1,HBO Signature
+http://iptv.latino-webtv.com/stalker.php?ch=HBOSignatureLASD&id=451
+
+#EXTINF:-1,MaxPrime
+http://iptv.latino-webtv.com/stalker.php?ch=MaxPrimeLASD&id=377
+
+#EXTINF:-1,MAX
+http://iptv.latino-webtv.com/stalker.php?ch=MaxLASD&id=381
+
+#EXTINF:-1,Max UP
+http://iptv.latino-webtv.com/stalker.php?ch=MaxUPSD&id=469
+
+#EXTINF:-1,TNT
+http://iptv.latino-webtv.com/stalker.php?ch=TNTAmericaLatinaHD&id=262
+
+#EXTINF:-1,TNT Series
+http://iptv.latino-webtv.com/stalker.php?ch=infinitoSD&id=331
+
+#EXTINF:-1,FX
+http://iptv.latino-webtv.com/stalker.php?ch=FXLASD&id=431
+
+#EXTINF:-1,Sony
+http://iptv.latino-webtv.com/stalker.php?ch=SonyLA&id=2501
+
+#EXTINF:-1,Space
+http://iptv.latino-webtv.com/stalker.php?ch=SpaceLA&id=2489
+
+#EXTINF:-1,Warner Channel
+http://iptv.latino-webtv.com/stalker.php?ch=WarnerLA&id=2499
+
+#EXTINF:-1,AMC
+http://iptv.latino-webtv.com/stalker.php?ch=AMCLASD&id=485
+
+#EXTINF:-1,Cinemax
+http://iptv.latino-webtv.com/stalker.php?ch=CinemaxLASD&id=343
+
+#EXTINF:-1,Fox Action
+http://iptv.latino-webtv.com/stalker.php?ch=FOXACTIONLASD&id=435
+
+#EXTINF:-1,Fox Cinèma
+http://iptv.latino-webtv.com/stalker.php?ch=FoxCinemaSD&id=457
+
+#EXTINF:-1,Fox Classics
+http://iptv.latino-webtv.com/stalker.php?ch=FOXClassicsLASD&id=465
+
+#EXTINF:-1,Fox Family
+http://iptv.latino-webtv.com/stalker.php?ch=FOXFamilyLASD&id=467
+
+#EXTINF:-1,Fox Movies
+http://iptv.latino-webtv.com/stalker.php?ch=FOXMoviesLASD&id=463
+
+#EXTINF:-1,Golden
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenHD&id=264
+
+#EXTINF:-1,Golden Edge
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenEdgeLA&id=1465
+
+#EXTINF:-1,Golden Premier 1
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenPremier1LA&id=4777
+
+#EXTINF:-1,Golden Premier 2
+http://iptv.latino-webtv.com/stalker.php?ch=GoldenPremiere2LA&id=4772
+
+#EXTINF:-1,Studio Universal
+http://iptv.latino-webtv.com/stalker.php?ch=StudioUniversalSD&id=345
+
+#EXTINF:-1,Paramount Channel
+http://iptv.latino-webtv.com/stalker.php?ch=ParamountChannelLatinAmericaHD&id=260
+
+#EXTINF:0,Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+
+#EXTINF:0,Peliculas HD
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1,MTV
+http://iptv.latino-webtv.com/stalker.php?ch=MTVLA&id=2491
+
+#EXTINF:-1,MTV Hits
+http://iptv.latino-webtv.com/stalker.php?ch=MTVHitsLA&id=1495
+
+#EXTINF:-1,Cine Dinamita
+http://iptv.latino-webtv.com/stalker.php?ch=CineDinamitaLA&id=3465
+
+#EXTINF:-1,CineLatino
+http://iptv.latino-webtv.com/stalker.php?ch=CineLatinoSD&id=477
+
+#EXTINF:-1,BBC Entertainment
+http://iptv.latino-webtv.com/stalker.php?ch=BBCEntLA&id=1407
+
+#EXTINF:-1,E!
+http://iptv.latino-webtv.com/stalker.php?ch=EentertaimentSD&id=427
+
+#EXTINF:-1,Film Zone
+http://iptv.latino-webtv.com/stalker.php?ch=FilmZoneLASD&id=1055
+
+#EXTINF:-1,MundoFox
+http://iptv.latino-webtv.com/stalker.php?ch=MundoFoxSD&id=429
+
+#EXTINF:-1,MultiPremier
+http://iptv.latino-webtv.com/stalker.php?ch=MultiPremierLA&id=3293
+
+#EXTINF:0 tvg-logo="DeporTV.png" tvg-shift="-4",DeporTV - Argentina
+rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
+
+#EXTINF:0 tvg-logo="VIVARA.png" tvg-shift="-4",Vivra - Argentina
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="canal12.png",Canal 12 Cordoba - Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="Argentina_719.dtv.la" tvg-name="América_24_(719)719" tvg-logo="a24.png",A24 - Argentina
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0 tvg-id="Argentina_720.dtv.la" tvg-name="Canal_26_(720)720" tvg-logo="Canal 26 HD.png",Canal 26 HD - Argentina
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:0 tvg-id="Argentina_120.dtv.la" tvg-name="América_(120)120" tvg-logo="America TV HD.png",America TV HD - Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+
+#EXTINF:0 tvg-id="Argentina_1123.dtv.la" tvg-name="Telefe_HD_(1123)1123" tvg-logo="Telefe HD.png",Telefe HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
+
+#EXTINF:0 tvg-id="Argentina_1121.dtv.la" tvg-name="TV_Pública_HD_(1121)1121" tvg-logo="TV Publica HD.png",TV Publica HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
+
+#EXTINF:0 tvg-id="Argentina_124.dtv.la" tvg-name="Canal_13_(124)124" tvg-logo="Canal Trece HD.png",Canal Trece HD - Argentina
+http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Argentina_1123.dtv.la" tvg-name="Telefe_HD_(1123)1123" tvg-logo="Telefe.png",Telefe - Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+
+#EXTINF:0 tvg-id="Argentina_269.dtv.la" tvg-name="Quiero_Música_en_mi_Idioma_(269)269" tvg-logo="Q Musica.png",Q Musica - Argentina
+mms://streamqm.uigc.net/qmusica
+
+#EXTINF:0 tvg-id="Argentina_717.dtv.la" tvg-name="C5N_(717)717" tvg-logo="C5N.png",C5N - Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="5",RBC HD - Perú
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="5",RBC Canal 11 - Perú
+rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
+#EXTINF:-1,Discovery Channel
+http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryChLA&id=3531
+
+#EXTINF:-1,Investigacion Discovery
+http://iptv.latino-webtv.com/stalker.php?ch=InvDiscoverySD&id=455
+
+#EXTINF:-1,National Geographic
+http://iptv.latino-webtv.com/stalker.php?ch=NatGeoLASD&id=395
+
+#EXTINF:-1,NatGeo Wild
+http://iptv.latino-webtv.com/stalker.php?ch=NatGeoWildLAHD&id=254
+
+#EXTINF:-1,History
+http://iptv.latino-webtv.com/stalker.php?ch=HistoryLA&id=3704
+
+#EXTINF:-1,H2
+http://iptv.latino-webtv.com/stalker.php?ch=H2LASD&id=297
+
+#EXTINF:-1,Animal Planet
+http://iptv.latino-webtv.com/stalker.php?ch=AnimalPlanetLASD&id=441
+
+#EXTINF:-1,A&E HD
+http://iptv.latino-webtv.com/stalker.php?ch=AEEastUS&id=995
+
+#EXTINF:-1,Fox Life
+http://iptv.latino-webtv.com/stalker.php?ch=FoxLifeSD&id=425
+
+#EXTINF:-1,Casa Club TV
+http://iptv.latino-webtv.com/stalker.php?ch=CasaClubLA&id=1475
+
+#EXTINF:-1,Canal de las Estrellas
+http://iptv.latino-webtv.com/stalker.php?ch=EstrellasLA&id=981
+
+#EXTINF:-1,Comedy Central
+http://iptv.latino-webtv.com/stalker.php?ch=ComedyCentralLA&id=1037
+
+#EXTINF:-1,Discovery Theather
+http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryenEspanolHD&id=3798
+
+#EXTINF:-1,El Gourmet
+http://iptv.latino-webtv.com/stalker.php?ch=ElgourmetLA&id=1033
+
+#EXTINF:-1,Home and Health
+http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryHomeHealthLAHD&id=252
+
+#EXTINF:-1,TruTV
+http://iptv.latino-webtv.com/stalker.php?ch=TruTVSD&id=337
+
+#EXTINF:-1,Telemundo
+http://iptv.latino-webtv.com/stalker.php?ch=TMNDO&id=4417
+
+#EXTINF:-1,Lifetime
+http://iptv.latino-webtv.com/stalker.php?ch=LifetimeLASD&id=423
+
+#EXTINF:-1,Distrito Comedia
+http://iptv.latino-webtv.com/stalker.php?ch=DistritoComediaLA&id=1491
+
+#EXTI
